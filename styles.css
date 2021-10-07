@@ -23,8 +23,8 @@ body {
     line-height: .80;
     cursor: pointer;
     color: salmon;
-    height: 250;
-    width: 250px;
+    height: 200px;
+    width: 200px;
     
     
 }
@@ -32,7 +32,7 @@ body {
 .btn1 {
     background-color: rgba(255, 192, 203, 0.349);
     font-family: 'Orbitron', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     color:black;
     border: none !important;
     
@@ -42,7 +42,7 @@ body {
 .btn2 {
     background-color: rgba(97, 216, 190, 0.349);
     font-family: 'Orbitron', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     color:black;
     
 
@@ -50,7 +50,7 @@ body {
 .btn3 {
     background-color:rgba(124, 174, 207, 0.349);
     font-family: 'Orbitron', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     color:black;
     
 
@@ -59,7 +59,7 @@ body {
 .btn4 {
     background-color:rgba(230, 217, 46, 0.349);
     font-family: 'Orbitron', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     color:black;
     
 }
