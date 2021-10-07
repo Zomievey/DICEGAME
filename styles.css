@@ -1,0 +1,77 @@
+
+body { 
+    background: url(https://images.wallpaperscraft.com/image/single/sea_sky_sunset_clouds_rocks_surf_82765_1920x1080.jpg) no-repeat 
+      center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#dice-container {
+    width: 60%;
+}
+
+.container-fluid {
+    padding: 3em;
+}
+
+.die {
+    display: inline-block;
+    text-align: center;
+    font-size: 300px;
+    line-height: .80;
+    cursor: pointer;
+    color: salmon;
+    height: 250;
+    width: 250px;
+    
+    
+}
+
+.btn1 {
+    background-color: rgba(255, 192, 203, 0.349);
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    color:black;
+    border: none !important;
+    
+
+}
+
+.btn2 {
+    background-color: rgba(97, 216, 190, 0.349);
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    color:black;
+    
+
+}
+.btn3 {
+    background-color:rgba(124, 174, 207, 0.349);
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    color:black;
+    
+
+}
+
+.btn4 {
+    background-color:rgba(230, 217, 46, 0.349);
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    color:black;
+    
+}
+
+.swal-modal {
+font-family: 'Orbitron', sans-serif;
+width: 478px;
+
+}
+
+
+.swal-title {
+    color: black !important;
+    font-weight: bold;
+}
